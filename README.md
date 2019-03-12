@@ -1,1 +1,1 @@
-# appliedPi_to_linearLogic
+# Applied Pi-calculus to Linear Logic Compiler
